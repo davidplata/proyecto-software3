@@ -1,2 +1,7 @@
 hola mundo
 hiii
+git status -para ver los archivos que no estan registrados o an cambiado
+git add-para agregar el achivo al al stream area el nuevo archivo
+git diff
+git comit-lo agrega al repositorio yse describe lo hecho
+git push-para llevarlo a github en la red
